@@ -1,2 +1,2 @@
 # bestwaygrp
-Static Website for Best way Group.
+Static Website for Bestway Group.
